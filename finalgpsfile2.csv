@@ -1,4 +1,4 @@
-timestamp,route_short_name,position_latitude,position_longitude,time
+timestamp,route_short_name,position_longitude,position_latitude,time
 2017-05-16 11:37:48.000 -07:00,026,-123.045364379883,49.2443008422852,1
 2017-05-16 11:49:11.000 -07:00,026,-123.045135498047,49.2442665100098,2
 2017-05-16 11:50:16.000 -07:00,026,-123.043884277344,49.242748260498,3
